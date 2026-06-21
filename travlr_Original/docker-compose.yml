@@ -1,0 +1,16 @@
+version: '1'
+
+services:
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    ports:
+      - "27018:27017"
+    
+  web-app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGO_URI=mongodb:27017
+    depends_on:
+      - mongodb
