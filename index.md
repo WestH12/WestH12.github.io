@@ -5,8 +5,8 @@ title: CS 499 - Computer Science Capstone ePortfolio
 
 # Computer Science Professional ePortfolio
 **Course:** CS 499 - Computer Science Capstone  
-**Developer:** [Your Name]  
-**Date:** [Month, Year]  
+**Developer:** Westley Hunter  
+**Date:** June, 2026
 
 ---
 
@@ -29,7 +29,7 @@ title: CS 499 - Computer Science Capstone ePortfolio
 
 ## 🎥 Informal Code Review
 * **Audience:** Peers / Engineering Management  
-* **Video Delivery:** [Insert Link to Code Review Video (e.g., YouTube/Vimeo)]  
+* **Video Delivery:** https://youtu.be/svvfcTDH0GQ  
 
 ### Video Context Summary
 * **Existing Functionality Walkthrough:** [Briefly list the baseline features and operational flow covered during the video walkthrough.]
