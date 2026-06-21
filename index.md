@@ -14,14 +14,18 @@ title: CS 499 - Computer Science Capstone ePortfolio
 
 ### Introduction & Professional Value
 > [Use this section to discuss how completing your coursework throughout the program and developing this ePortfolio has helped showcase your strengths, shape your professional goals/values, and prepare you to enter or become more employable in the computer science field.]
-> 
+> Developing and completing this portfolio is a great final achievement in the computer science journey here at SNHU. Bringing together these 3 artifacts helped me to highlight my strengths of familiarity across many different technical domains, a passion to learn and build side projects, and pushing through uncertain territory. Throughout my coursework, I have learned about foundational machine learning topics, how to identify, clean, and utilize data sources and honed a skill to craft environment specific algorithms. For example, when creating my Wordle Bot, I had to combine information theory with programming principles to identify the best first guess by looking ahead. Additionally, initial full testing runs took around 15 hours but with the innovative approach of precomputing the answers with a lookup table dropped the time to around 7 minutes. Throughout my coursework, I have had the opportunity to develop a data integrity plan, propose and evaluate a machine learning model for a selected problem, and employ linear algebra to solve real-world problems. Overall, these topics and experiences have placed me in a great position to become a machine learning engineer. 
 
-
+### Core Competency Reflections
+* **Collaborating in a Team Environment:** Participated in numerous discussions posts to discuss current technical problems, different algorithmic approaches
+* **Communicating with Stakeholders:** Developed multiple documents to communicate technical topics and approaches to nontechnical stakeholders through precise and clean communication.
+* **Data Structures and Algorithms:** Navigated complex problems through dynamic and systematic programming while utilizing the appropriate data structures to balance computational demands and design parameters.
+* **Software Engineering & Databases:** Manufactured full-stack applications that managed front-end rendering and server-side logic within popular tech stacks and optimized client-server connections.
+* **Security Mindset:** Created security-minded applications through input sanitization, vulnerability scanning, implementing secure design patterns, and anonymization of data. 
 
 ---
 
 ## 🎥 Code Review
-* **Audience:** Peers / Engineering Management  
 * **Video Delivery:** https://youtu.be/svvfcTDH0GQ  
 
 
