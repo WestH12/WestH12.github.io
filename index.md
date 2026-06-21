@@ -14,27 +14,16 @@ title: CS 499 - Computer Science Capstone ePortfolio
 
 ### Introduction & Professional Value
 > [Use this section to discuss how completing your coursework throughout the program and developing this ePortfolio has helped showcase your strengths, shape your professional goals/values, and prepare you to enter or become more employable in the computer science field.]
+> 
 
-### Core Competency Reflections
-* **Collaborating in a Team Environment:** [Provide specific examples of teamwork or group dynamics experienced during your program or external projects.]
-* **Communicating with Stakeholders:** [Discuss how you tailormade technical communications for both technical and non-technical audiences.]
-* **Data Structures and Algorithms:** [Explain your overarching understanding of algorithmic principles and managing design trade-offs.]
-* **Software Engineering & Databases:** [Synthesize your skills in software architecture lifecycle choices and modern database management systems.]
-* **Security Mindset:** [Detail how you anticipate adversarial exploits, expose potential vulnerabilities, mitigate design flaws, and ensure data privacy.]
 
-### Portfolio Roadmap
-[Summarize and introduce how your chosen artifacts fit together and inform the portfolio as a whole to demonstrate the full range of your talents. Use this paragraph to transition your audience into the technical artifacts that follow below.]
 
 ---
 
-## 🎥 Informal Code Review
+## 🎥 Code Review
 * **Audience:** Peers / Engineering Management  
 * **Video Delivery:** https://youtu.be/svvfcTDH0GQ  
 
-### Video Context Summary
-* **Existing Functionality Walkthrough:** [Briefly list the baseline features and operational flow covered during the video walkthrough.]
-* **Targeted Code Analysis:** [List the specific areas targeted for improvement in the video, such as structure, logic, efficiency, security, testing, or documentation.]
-* **Planned Enhancements & Course Outcomes:** [Outline the planned modifications highlighted in the video and how they align with the five core course outcomes.]
 
 ---
 
